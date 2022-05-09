@@ -168,12 +168,30 @@ The code proved to be very time efficient. The execution time for 2017 improved 
 Likewise, the execution time for 2018 improved from 0.1171875 seconds to 0.0859375 seconds, showing a 26.67% increase. 
 
 2017:
+
+(Original VBA count)
+
+
 <img width="297" alt="Original VBA Count 2017" src="https://user-images.githubusercontent.com/104735724/167329511-3d231549-853b-4691-bec4-0ddfc98d344b.png">
+
+(Refactored count)
+
+
 
 <img width="286" alt="VBA_Challenge_2017 png " src="https://user-images.githubusercontent.com/104735724/167329521-ce7a8e23-5d8d-4317-9c5f-98bd0bcc47a6.png">
  
+ 
+ 
 2018:
+
+(Original VBA Count)
+
 <img width="286" alt="Original VBA Count 2018" src="https://user-images.githubusercontent.com/104735724/167329556-2c8bea88-3e0d-4846-81ad-89094a94332a.png">
+
+
+(Refactored Count)
+
+
 
 <img width="286" alt="VBA_Challenge_2018 png " src="https://user-images.githubusercontent.com/104735724/167329567-3e781dad-0f03-4b17-bb1d-6357d4769d1d.png">
 
